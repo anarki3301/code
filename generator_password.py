@@ -1,3 +1,4 @@
+#generator password
 import random
 
 chars = '+-/*!&$#?=@<>abcdefghijklnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890'
